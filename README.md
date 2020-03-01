@@ -1,7 +1,7 @@
 # SeleniumTest
 
 On the top of the Java file, change the following:
-* DRIVER_LOCATION: Points to the chrome_browser.exe file
+* DRIVER_LOCATION: Points to the chrome_browser.exe file (Its available in the Repo. Please download)
 * If the XPATH fails to be loaded, update the XPATH with the element's XPATH
 
 Run As Java. System out will print the Page Title. 
